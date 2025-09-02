@@ -10,11 +10,11 @@ Sou um profissional de QA e Automação de Testes com mais de 5 anos de experiê
 
 ## 💼 Experiência Profissional
 
-**Analista de Automação de Testes** @ [Base2 Tecnologia](https://www.base2.com.br/)  
+**Analista de Automação de Testes**  @ [Base2 Tecnologia](https://www.base2.com.br/)  
 *(Maio 2024 - Presente)*  
 Desenvolvimento e execução de testes automatizados com Selenium, TestComplete e Robot Framework. Colaboração ativa com equipes de Desenvolvimento e QA.
 
-**Analista de Testes** @ [90 TI](https://90ti.com.br/)  
+**Analista de Testes**  @ [90 TI](https://www.noventa.com.br/)  
 *(Set 2020 - Abr 2024)*  
 Atuação em testes manuais e automatizados (Cypress, Selenium, Appium). Integração contínua com Jenkins e testes de API com Postman.
 
